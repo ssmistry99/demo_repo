@@ -11,3 +11,6 @@ changing again now to see if it's connected
 
 But why wont it show up 
 
+## Local Development
+
+1. Open index.html in your browser.
